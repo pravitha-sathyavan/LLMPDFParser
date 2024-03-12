@@ -1,0 +1,13 @@
+pip install PyPDF2==3.0.1
+pip install python-dotenv==1.0.0
+pip install streamlit==1.22.0
+pip install faiss-cpu==1.7.4
+pip install streamlit-extras
+pip install altair==4
+pip install langchain
+pip install dill
+
+
+I have also added the OpenAI api key in environment variables
+OPENAI_API_KEY = yourAPIKey
+This we can get from https://platform.openai.com/api-keys
